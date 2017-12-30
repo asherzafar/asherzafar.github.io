@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asher Zafar - Data Science • Economics on Asher Zafar - Data Science • Economics</title>
+    <link>https://asherzafar.github.io/</link>
+    <description>Recent content in Asher Zafar - Data Science • Economics on Asher Zafar - Data Science • Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Code for Canada - Government and Data</title>
+      <link>https://asherzafar.github.io/project/government-and-data/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asherzafar.github.io/project/government-and-data/</guid>
+      <description>&lt;p&gt;This talk was delivered for an onboarding session for Code for Canada&amp;rsquo;s first cohort of fellows in the fall of 2017. It&amp;rsquo;s a practical overview of a typical data landscape in government, with a focus on getting things done.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/asherzafar/asherzafar.github.io/raw/master/Code%20for%20Canada%20-%20Government%20and%20Data.pdf&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;  Download PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://codefor.ca/&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-external-link-square&#34;&gt;&lt;/i&gt;  Learn more about Code for Canada&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;bb5c94ea40844b758830e31f87c1c995&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StackOverflow Developer Talent Map</title>
+      <link>https://asherzafar.github.io/project/developer-talent-map/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asherzafar.github.io/project/developer-talent-map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
