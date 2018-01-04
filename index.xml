@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asher Zafar - Data Science • Economics on Asher Zafar - Data Science • Economics</title>
+    <title>Asher Zafar on Asher Zafar</title>
     <link>https://asherzafar.github.io/</link>
-    <description>Recent content in Asher Zafar - Data Science • Economics on Asher Zafar - Data Science • Economics</description>
+    <description>Recent content in Asher Zafar on Asher Zafar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,9 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>StackOverflow Developer Talent Map</title>
+      <link>https://asherzafar.github.io/project/developer-talent-map/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asherzafar.github.io/project/developer-talent-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Project</title>
+      <link>https://asherzafar.github.io/project/ml-example/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asherzafar.github.io/project/ml-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code for Canada - Government and Data</title>
       <link>https://asherzafar.github.io/project/government-and-data/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://asherzafar.github.io/project/government-and-data/</guid>
       <description>&lt;p&gt;This talk was delivered for an onboarding session for Code for Canada&amp;rsquo;s first cohort of fellows in the fall of 2017. It&amp;rsquo;s a practical overview of a typical data landscape in government, with a focus on getting things done.&lt;/p&gt;
@@ -24,15 +42,6 @@
 
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;bb5c94ea40844b758830e31f87c1c995&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>StackOverflow Developer Talent Map</title>
-      <link>https://asherzafar.github.io/project/developer-talent-map/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asherzafar.github.io/project/developer-talent-map/</guid>
-      <description></description>
     </item>
     
   </channel>
